@@ -1,4 +1,4 @@
-
+/*Reader and Writer logical scheme modified to manipulate two sets of Readers.*/
 #define UNICODE
 #define _UNICODE
 #define _CRT_SECURE_NO_WARNINGS
